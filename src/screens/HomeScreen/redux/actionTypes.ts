@@ -1,0 +1,4 @@
+enum TYPES {
+    SET_HELLO_WORLD_TEXT_IN_SAGA = 'SET_HELLO_WORLD_TEXT_IN_SAGA',
+}
+export default TYPES;
